@@ -45,11 +45,11 @@ If the event is found, you can simulate an alternate history for it.
 
 # Technologies Used
 
-MongoDB: A NoSQL database used for storing event data.
-Python: The programming language for building the application.
-Rich: A library for creating beautiful command-line interfaces.
-pymongo: MongoDB driver for Python.
-python-dotenv: Used to load environment variables from the .env file.
+- MongoDB: A NoSQL database used for storing event data.
+- Python: The programming language for building the application.
+- Rich: A library for creating beautiful command-line interfaces.
+- pymongo: MongoDB driver for Python.
+- python-dotenv: Used to load environment variables from the .env file.
 
 # License
 
